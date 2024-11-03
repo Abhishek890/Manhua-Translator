@@ -12,6 +12,7 @@ An AI-powered manga translation tool that automatically detects and translates C
 - Real-time translation progress
 - Debug logging system
 
+## For Now only Chinese Language Support There for (KOREAN AND JAPNESE SOON)
 ## Development
 
 ```bash
